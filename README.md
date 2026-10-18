@@ -182,6 +182,3 @@ Curso de Business Intelligence · Talento Tech 2026
 
 [LinkedIn](https://www.linkedin.com/in/matiaurelio/)
 
----
-
-⭐ Si te resultó útil este proyecto, ¡dejá una estrella al repositorio!
